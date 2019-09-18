@@ -57,4 +57,4 @@ You can also ask for more exercices, and I'll try to create some examples.
  * [Tom KAUFFELD](https://github/TomKauffeld), yes just me for now.
 
 ## License
-This project is licensed under the MIT License for now - see the LICENCE file for more information.
+This project is licensed under the MIT License for now - see the LICENSE file for more information.
