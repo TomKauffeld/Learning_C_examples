@@ -57,4 +57,4 @@ You can also ask for more exercises, and I'll try to create some examples.
  * [Tom KAUFFELD](https://github/TomKauffeld), yes just me for now.
 
 ## License
-This project is licensed under the MIT License for now - see the [LICENCE](https://github.com/TomKauffeld/Learning_C_examples/blob/master/LICENSE) file for more information.
+This project is licensed under the MIT License for now - see the [LICENSE](https://github.com/TomKauffeld/Learning_C_examples/blob/master/LICENSE) file for more information.
